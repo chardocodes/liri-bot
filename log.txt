@@ -84,3 +84,95 @@ Track Name: I Want It That Way
 Preview URL: https://p.scdn.co/mp3-preview/e72a05dc3f69c891e3390c3ceaa77fad02f6b5f6?cid=c8fcc63bad7a4593804d57766a74b4cf
 Album: The Hits--Chapter One
 ---
+spotify-this-song
+---
+Artist(s): Ace of Base
+Track Name: The Sign
+Preview URL: https://p.scdn.co/mp3-preview/4c463359f67dd3546db7294d236dd0ae991882ff?cid=c8fcc63bad7a4593804d57766a74b4cf
+Album: The Sign (US Album) [Remastered]
+---
+spotify-this-song
+---
+Artist(s): Eric Clapton
+Track Name: I Shot The Sheriff
+Preview URL: null
+Album: 461 Ocean Blvd. (Deluxe Edition)
+---
+movie-this
+---
+Title: Big
+Year: 1988
+IMDB Rating: 7.3/10
+Rotten Tomatoes Rating: 97%
+Country: USA
+Language: English
+Plot: After wishing to be made big, a teenage boy wakes the next morning to find himself mysteriously in the body of an adult.
+Actors: Tom Hanks, Elizabeth Perkins, Robert Loggia, John Heard
+---
+do-what-it-says
+---
+
+---
+spotify-this-song,"I Want it That Way"
+---
+Artist(s): Backstreet Boys
+Track Name: I Want It That Way
+Preview URL: https://p.scdn.co/mp3-preview/e72a05dc3f69c891e3390c3ceaa77fad02f6b5f6?cid=c8fcc63bad7a4593804d57766a74b4cf
+Album: The Hits--Chapter One
+---
+spotify-this
+---
+could not recognize command
+---
+spotify-this
+---
+could not recognize command
+---
+spotify-this
+---
+could not recognize command
+---
+spotify-this-song
+---
+Artist(s): Bob Marley & The Wailers
+Track Name: Could You Be Loved
+Preview URL: null
+Album: Uprising
+---
+movie-this
+---
+Title: undefined
+Year: undefined
+IMDB Rating: undefined/10
+Rotten Tomatoes Rating: undefined
+Country: undefined
+Language: undefined
+Plot: undefined
+Actors: undefined
+---
+movie-this
+---
+Title: Big
+Year: 1988
+IMDB Rating: 7.3/10
+Rotten Tomatoes Rating: 97%
+Country: USA
+Language: English
+Plot: After wishing to be made big, a teenage boy wakes the next morning to find himself mysteriously in the body of an adult.
+Actors: Tom Hanks, Elizabeth Perkins, Robert Loggia, John Heard
+---
+conert-this
+---
+could not recognize command
+---
+do-what-it-says
+---
+
+---
+spotify-this-song,"I Want it That Way"
+---
+Artist(s): Backstreet Boys
+Track Name: I Want It That Way
+Preview URL: https://p.scdn.co/mp3-preview/e72a05dc3f69c891e3390c3ceaa77fad02f6b5f6?cid=c8fcc63bad7a4593804d57766a74b4cf
+Album: The Hits--Chapter One
+---

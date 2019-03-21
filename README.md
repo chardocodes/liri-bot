@@ -1,7 +1,8 @@
 
-Hello. I'm Chardo.
+Hello. I'm Chardo. 
 
-![alt text](https://scontent.fsan1-1.fna.fbcdn.net/v/t1.0-9/29791362_10100749885775377_8555215777799078172_n.jpg)
+screencastify link
+https://drive.google.com/file/d/1vpvFdBdNYWcUjEd0GwIjEkjhwerso51Q/view
 
 
 Navigate to the root of your project and run npm init -y — this will initialize a package.json file for your project. The package.json file is required for installing third party npm packages and saving their version numbers. If you fail to initialize a package.json file, it will be troublesome, and at times almost impossible for anyone else to run your code after cloning your project.
