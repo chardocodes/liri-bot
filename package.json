@@ -1,0 +1,30 @@
+{
+  "name": "liri-bot",
+  "version": "1.0.0",
+  "description": "liri-bot-homework",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/chardocodes/liri-bot.git"
+  },
+  "keywords": [
+    "starter",
+    "code"
+  ],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/chardocodes/liri-bot/issues"
+  },
+  "homepage": "https://github.com/chardocodes/liri-bot#readme",
+  "dependencies": {
+    "axios": "^0.18.0",
+    "dotenv": "^7.0.0",
+    "fetch": "^1.1.0",
+    "moment": "^2.24.0",
+    "node-spotify-api": "^1.0.7"
+  }
+}
